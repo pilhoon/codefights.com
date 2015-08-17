@@ -1,3 +1,5 @@
+// this is NOT my code!! for more information(including about the author) see the url file.
+
 #include <iostream>
 #include <vector>
 #include "stdio.h"
